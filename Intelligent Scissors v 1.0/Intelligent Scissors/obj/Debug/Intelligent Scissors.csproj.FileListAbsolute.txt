@@ -1,0 +1,83 @@
+C:\Users\ahmed\Desktop\Intelligent Scissors\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe.config
+C:\Users\ahmed\Desktop\Intelligent Scissors\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe
+C:\Users\ahmed\Desktop\Intelligent Scissors\Intelligent Scissors\bin\Debug\Intelligent Scissors.pdb
+C:\Users\ahmed\Desktop\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Form1.resources
+C:\Users\ahmed\Desktop\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Properties.Resources.resources
+C:\Users\ahmed\Desktop\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent Scissors.csproj.GenerateResource.Cache
+C:\Users\ahmed\Desktop\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent Scissors.exe
+C:\Users\ahmed\Desktop\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent Scissors.pdb
+C:\Users\ahmed\Desktop\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent Scissors.csprojResolveAssemblyReference.cache
+E:\Intelligent Scissors\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe.config
+E:\Intelligent Scissors\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe
+E:\Intelligent Scissors\Intelligent Scissors\bin\Debug\Intelligent Scissors.pdb
+E:\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent Scissors.csprojAssemblyReference.cache
+E:\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Form1.resources
+E:\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Properties.Resources.resources
+E:\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent Scissors.csproj.GenerateResource.cache
+E:\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent Scissors.csproj.CoreCompileInputs.cache
+E:\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent Scissors.exe
+E:\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent Scissors.pdb
+C:\Users\darkg\OneDrive\Desktop\Intelligent Scissors\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe.config
+C:\Users\darkg\OneDrive\Desktop\Intelligent Scissors\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe
+C:\Users\darkg\OneDrive\Desktop\Intelligent Scissors\Intelligent Scissors\bin\Debug\Intelligent Scissors.pdb
+C:\Users\darkg\OneDrive\Desktop\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Form1.resources
+C:\Users\darkg\OneDrive\Desktop\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Properties.Resources.resources
+C:\Users\darkg\OneDrive\Desktop\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent Scissors.csproj.GenerateResource.cache
+C:\Users\darkg\OneDrive\Desktop\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent Scissors.csproj.CoreCompileInputs.cache
+C:\Users\darkg\OneDrive\Desktop\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent Scissors.exe
+C:\Users\darkg\OneDrive\Desktop\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent Scissors.pdb
+C:\Users\darkg\OneDrive\Desktop\Intelligent Scissors\Intelligent Scissors\obj\Debug\Intelligent Scissors.csprojAssemblyReference.cache
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.2\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe.config
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.2\Intelligent Scissors\obj\Debug\Intelligent Scissors.exe
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.2\Intelligent Scissors\obj\Debug\Intelligent Scissors.pdb
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.2\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.2\Intelligent Scissors\bin\Debug\Intelligent Scissors.pdb
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.2\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Form1.resources
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.2\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Properties.Resources.resources
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.2\Intelligent Scissors\obj\Debug\Intelligent Scissors.csproj.GenerateResource.Cache
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.3\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe.config
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.3\Intelligent Scissors\obj\Debug\Intelligent Scissors.exe
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.3\Intelligent Scissors\obj\Debug\Intelligent Scissors.pdb
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.3\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.3\Intelligent Scissors\bin\Debug\Intelligent Scissors.pdb
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.3\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Form1.resources
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.3\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Properties.Resources.resources
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.3\Intelligent Scissors\obj\Debug\Intelligent Scissors.csproj.GenerateResource.Cache
+D:\Project\Algo\Intelligent_Scissors_v_0.4\Intelligent Scissors v 0.4\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe.config
+D:\Project\Algo\Intelligent_Scissors_v_0.4\Intelligent Scissors v 0.4\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe
+D:\Project\Algo\Intelligent_Scissors_v_0.4\Intelligent Scissors v 0.4\Intelligent Scissors\bin\Debug\Intelligent Scissors.pdb
+D:\Project\Algo\Intelligent_Scissors_v_0.4\Intelligent Scissors v 0.4\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Form1.resources
+D:\Project\Algo\Intelligent_Scissors_v_0.4\Intelligent Scissors v 0.4\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Properties.Resources.resources
+D:\Project\Algo\Intelligent_Scissors_v_0.4\Intelligent Scissors v 0.4\Intelligent Scissors\obj\Debug\Intelligent Scissors.csproj.GenerateResource.cache
+D:\Project\Algo\Intelligent_Scissors_v_0.4\Intelligent Scissors v 0.4\Intelligent Scissors\obj\Debug\Intelligent Scissors.csproj.CoreCompileInputs.cache
+D:\Project\Algo\Intelligent_Scissors_v_0.4\Intelligent Scissors v 0.4\Intelligent Scissors\obj\Debug\Intelligent Scissors.exe
+D:\Project\Algo\Intelligent_Scissors_v_0.4\Intelligent Scissors v 0.4\Intelligent Scissors\obj\Debug\Intelligent Scissors.pdb
+D:\Project\Algo\Intelligent_Scissors_v_0.4\Intelligent Scissors v 0.4\Intelligent Scissors\obj\Debug\Intelligent Scissors.csprojAssemblyReference.cache
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.5\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe.config
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.5\Intelligent Scissors\obj\Debug\Intelligent Scissors.exe
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.5\Intelligent Scissors\obj\Debug\Intelligent Scissors.pdb
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.5\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.5\Intelligent Scissors\bin\Debug\Intelligent Scissors.pdb
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.5\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Form1.resources
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.5\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Properties.Resources.resources
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.5\Intelligent Scissors\obj\Debug\Intelligent Scissors.csproj.GenerateResource.Cache
+C:\Users\ahmed\Desktop\Intelligent Scissors v 0.5\Intelligent Scissors\obj\Debug\Intelligent Scissors.csprojResolveAssemblyReference.cache
+D:\Project\Algo\Intelligent_Scissors_v_0.6\Intelligent Scissors v 0.6\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe.config
+D:\Project\Algo\Intelligent_Scissors_v_0.6\Intelligent Scissors v 0.6\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe
+D:\Project\Algo\Intelligent_Scissors_v_0.6\Intelligent Scissors v 0.6\Intelligent Scissors\bin\Debug\Intelligent Scissors.pdb
+D:\Project\Algo\Intelligent_Scissors_v_0.6\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Form1.resources
+D:\Project\Algo\Intelligent_Scissors_v_0.6\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Properties.Resources.resources
+D:\Project\Algo\Intelligent_Scissors_v_0.6\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Debug\Intelligent Scissors.csproj.GenerateResource.cache
+D:\Project\Algo\Intelligent_Scissors_v_0.6\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Debug\Intelligent Scissors.csproj.CoreCompileInputs.cache
+D:\Project\Algo\Intelligent_Scissors_v_0.6\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Debug\Intelligent Scissors.exe
+D:\Project\Algo\Intelligent_Scissors_v_0.6\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Debug\Intelligent Scissors.pdb
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe.config
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\bin\Debug\Intelligent Scissors.exe
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\bin\Debug\Intelligent Scissors.pdb
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Debug\Intelligent Scissors.csprojAssemblyReference.cache
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Form1.resources
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Debug\Intelligent_Scissors.Properties.Resources.resources
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Debug\Intelligent Scissors.csproj.GenerateResource.cache
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Debug\Intelligent Scissors.csproj.CoreCompileInputs.cache
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Debug\Intelligent Scissors.exe
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Debug\Intelligent Scissors.pdb

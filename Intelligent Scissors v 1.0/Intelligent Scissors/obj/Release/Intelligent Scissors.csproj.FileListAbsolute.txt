@@ -1,0 +1,10 @@
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Release\Intelligent Scissors.csprojAssemblyReference.cache
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Release\Intelligent_Scissors.Form1.resources
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Release\Intelligent_Scissors.Properties.Resources.resources
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Release\Intelligent Scissors.csproj.GenerateResource.cache
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Release\Intelligent Scissors.csproj.CoreCompileInputs.cache
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\bin\Release\Intelligent Scissors.exe.config
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\bin\Release\Intelligent Scissors.exe
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\bin\Release\Intelligent Scissors.pdb
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Release\Intelligent Scissors.exe
+D:\Project\Algo\Intelligent_Scissors_v_0.7\Intelligent Scissors v 0.6\Intelligent Scissors\obj\Release\Intelligent Scissors.pdb
